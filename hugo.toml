@@ -1,0 +1,23 @@
+baseURL = 'https://windscale.dev/'
+languageCode = 'en-GB'
+title = 'windscale.dev'
+theme = 'github-style'
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  author = "Stephen Butler"
+  description = "An air cooled, graphite cored nuclear reactor? What can possibly go wrong?"
+  github = "windscale-stephen"
+  twitter = "WindscleStephen"
+  linkedin = "stephen-butler-831baa1bb"
+  email = "stephen@windscale.dev"
+  url = "https://windscale.dev"
+  keywords = "blog"
+  rss = true
+  lastmod = true
+  userStatusEmoji = "😀"
+  favicon = "/favicon.ico"
+  avatar = "/images/windscale-circle.png"
+  headerIcon = "/images/windscale-circle.png"
+  location = "Windsor, United Kingdom"
