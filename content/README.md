@@ -16,7 +16,6 @@ represent Oracle's unless specifically mentioned.
 * Blog: [windscale.dev](https://windscale.dev)
 * GitHub: [windscale-stephen](https://github.com/windscale-stephen)
 * LinkedIn: [stephen-butler-831baa1bb](https://linkedin.com/in/stephen-butler-831baa1bb)
-* X: [WindscleStephen](https://x.com/WindscleStephen)
 
 ## Tools used for this site
 
