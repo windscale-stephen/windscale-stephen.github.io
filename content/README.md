@@ -2,9 +2,9 @@
 
 Hi, I'm Stephen - a developer at heart who's accidentally spent far
 too long doing infrastructure. I currently work for
-[Oracle](https://www.oracle.com/) as a Senior DevOps Engineer in SaaS
-Operations Engineering. Any views expressed here are my own and do not
-represent Oracle's unless specifically mentioned.
+[Oracle](https://www.oracle.com/) as a Principal DevOps Engineer in
+SaaS Operations Engineering. Any views expressed here are my own and
+do not represent Oracle's unless specifically mentioned.
 
 ## Repos
 
