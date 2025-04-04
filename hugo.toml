@@ -18,5 +18,5 @@ pygmentsUseClasses = true
   userStatusEmoji = "😀"
   favicon = "/favicon.ico"
   avatar = "/images/windscale-circle.png"
-  headerIcon = "/images/windscale-circle.png"
+  headerIcon = "/images/github-mark-white.png"
   location = "Windsor, United Kingdom"
